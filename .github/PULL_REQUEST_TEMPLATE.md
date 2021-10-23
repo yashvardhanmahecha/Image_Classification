@@ -15,7 +15,7 @@
 ## What type of PR is this? (check all applicable)
 
 - [ ] ♻️ Refactor
-- [ ] ✨ New Chapter
+- [ ] ✨ New Feature/File
 - [ ] 🐛 Bug Fix/Typo
 - [ ] 👷 Optimization
 - [ ] 📝 Documentation Update
@@ -33,5 +33,3 @@
 
 - [ ] 📜 readme
 - [ ] 🙅 no documentation needed
-
-## [optional] What gif best describes this PR or how it makes you feel?
